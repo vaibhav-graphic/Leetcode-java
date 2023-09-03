@@ -1,3 +1,5 @@
+//time c - O(n*2^n)
+//space c - O(n*n*2^n)
 import java.util.ArrayList;
 import java.util.List;
 
