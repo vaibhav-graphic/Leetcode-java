@@ -3,9 +3,10 @@ import java.util.ArrayList;
 
 class Comnination_Sun_II{
 
-    public List<List<Integer>> combinationSum2(int []nums,int target){
+    public List<List<Integer>> combinationSum2(int []candidates,int target){
+        Arrays.sort(nums);
         List<List<Integer>> res =new ArrayList<>();
-        solve(0,nums,target,res,new ArrayList<>());
+        solve(0,candidates,target,res,new ArrayList<>());
         return res;
     }
 
