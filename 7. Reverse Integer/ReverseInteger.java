@@ -17,6 +17,7 @@ class ReverseInteger{
     
         if(x<0)
             return (int) (-1*ans);   
+            
     
         return (int) ans;
         }
