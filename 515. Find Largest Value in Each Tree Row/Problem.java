@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private List<Integer> res;
     public List<Integer> largestValues(TreeNode root) {
         res = new ArrayList<>();
