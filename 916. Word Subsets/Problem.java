@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<String> wordSubsets(String[] words1, String[] words2) {
         int[] maxCharFreq = new int[26];
         int[] tempCharFreq = new int[26];
