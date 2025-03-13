@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maximumCount(int[] nums) {
         int low=0, high=nums.length-1;
 
