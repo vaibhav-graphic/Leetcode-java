@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minimumOperations(int[] nums) {
         List<Integer> numList = new ArrayList<>();
         for (int num : nums) {
