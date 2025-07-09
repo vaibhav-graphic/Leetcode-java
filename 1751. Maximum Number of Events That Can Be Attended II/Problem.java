@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maxValue(int[][] events, int k) {
         Arrays.sort(events, (a, b) -> a[1] - b[1]); 
         int n = events.length;
