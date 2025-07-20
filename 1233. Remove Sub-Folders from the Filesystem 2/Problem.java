@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<String> removeSubfolders(String[] folder) {
         List<String> res = new ArrayList<>();
         Arrays.sort(folder);
