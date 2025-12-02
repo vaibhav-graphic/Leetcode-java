@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public long maxRunTime(int n, int[] batteries) {
         long totalEnergy = 0;
         for (int battery : batteries) {
