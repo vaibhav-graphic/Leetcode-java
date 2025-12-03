@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private static final int MOD = (int) 1e9 + 7;
     private static final int INV2 = 500_000_004;
 
