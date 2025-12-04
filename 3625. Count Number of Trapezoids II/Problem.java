@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int countTrapezoids(int[][] points) {
         HashMap<Integer, HashMap<Integer, Integer>> t = new HashMap<>();
         HashMap<Integer, HashMap<Integer, Integer>> v = new HashMap<>();
