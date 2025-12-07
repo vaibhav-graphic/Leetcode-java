@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int countPartitions(int[] nums, int k) {
         int MOD = (int) 1e9 + 7, n = nums.length, left = 0;
         int[] dp = new int[n + 1], prefix = new int[n + 2]; 
