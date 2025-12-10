@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     final static int mod=(int)1e9+7, M=(int)1e5+1;
     public int specialTriplets(int[] nums) {
         final int  n=nums.length;
