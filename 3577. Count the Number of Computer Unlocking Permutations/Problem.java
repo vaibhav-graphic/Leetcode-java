@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static final int MOD = 1_000_000_007;
 
     public int countPermutations(int[] comp) {
