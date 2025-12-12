@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int countCoveredBuildings(int n, int[][] buildings) {
 
         Map<Integer, TreeSet<Integer>> rowToCol = new HashMap<>();
