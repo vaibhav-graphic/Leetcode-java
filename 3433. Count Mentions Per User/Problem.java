@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] countMentions(int numberOfUsers, List<List<String>> events) {
         TreeMap<Integer, List<List<String>>> byTime = new TreeMap<>();
         for (List<String> ev : events) {
