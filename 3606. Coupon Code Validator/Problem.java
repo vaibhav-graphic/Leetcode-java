@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public List<String> validateCoupons(String[] code, String[] businessLine, boolean[] isActive) {
         List<String>res = new ArrayList();
 
