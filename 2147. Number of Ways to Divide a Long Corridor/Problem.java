@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int numberOfWays(String corridor) {
         int mod = 1_000_000_007;
         ArrayList<Integer> pos = new ArrayList<>();
