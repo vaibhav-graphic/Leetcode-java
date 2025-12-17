@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
 
     int B;
     List<Integer>[] tree;
