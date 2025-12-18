@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     class State {
         long maxProfit, buyHold, sellHold;
         State(long p, long b, long s) {
