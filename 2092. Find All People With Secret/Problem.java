@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<Integer> findAllPeople(int n, int[][] meetings, int firstPerson) {
 	
 		// create <time, index> map
