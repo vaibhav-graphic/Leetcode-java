@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int minDeletionSize(String[] strs) {
         int res = 0;
         for (int j = 0; j < strs[0].length(); j++)
