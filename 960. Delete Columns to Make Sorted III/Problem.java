@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minDeletionSize(String[] strs) {
         int n = strs[0].length(), m = strs.length;
         int[] dp = new int[n];
