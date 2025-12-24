@@ -1,4 +1,4 @@
-class Solution {
+class Problem1 {
     public int maxTwoEvents(int[][] events) {
         int n = events.length;
         
