@@ -1,4 +1,4 @@
-class Problem {
+class ProblemProblem.java {
     public long maximumHappinessSum(int[] arr, int k) {
         int n = arr.length;
         long res = 0;

@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int minimumBoxes(int[] apple, int[] capacity) {
         int sum = 0;
         
