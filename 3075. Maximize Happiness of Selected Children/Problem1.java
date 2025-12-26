@@ -1,4 +1,4 @@
-class Prob {
+class Problem1 {
     public long maximumHappinessSum(int[] arr, int k) {
         int n = arr.length;
         long res = 0;
