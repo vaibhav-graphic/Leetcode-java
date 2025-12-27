@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public int mostBooked(int n, int[][] meetings) {
         Arrays.sort(meetings, (a, b) -> a[0] - b[0]);
         PriorityQueue<long[]> queue = new PriorityQueue<>(

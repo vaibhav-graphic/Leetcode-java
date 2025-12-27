@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int bestClosingTime(String s) {
         int n = s.length();
         int[] dp = new int[n + 1];
