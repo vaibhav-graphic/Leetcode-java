@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int countNegatives(int[][] grid) {
        int rows=grid.length , cols=grid[0].length;
        int count=0;
