@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public boolean isMagicSquare(int[][] grid,int r,int c){
         int sum = grid[r][c] + grid[r][c+1] + grid[r][c+2];
         HashSet<Integer> set = new HashSet<>();
