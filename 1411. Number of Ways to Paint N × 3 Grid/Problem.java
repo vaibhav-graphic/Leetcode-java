@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int numOfWays(int n) {
         final int MOD = 1_000_000_007;
         long A = 6, B = 6;
