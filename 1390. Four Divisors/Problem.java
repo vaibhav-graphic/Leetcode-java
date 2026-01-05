@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int sumFourDivisors(int[] nums) {
         int res = 0;
 
