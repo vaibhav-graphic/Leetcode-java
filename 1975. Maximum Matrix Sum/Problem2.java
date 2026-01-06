@@ -1,4 +1,4 @@
-class Solution {
+class Problem2 {
     public long maxMatrixSum(int[][] matrix) {
     int min = Integer.MAX_VALUE;
     long sum = 0;
