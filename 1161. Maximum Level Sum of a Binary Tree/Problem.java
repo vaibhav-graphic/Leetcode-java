@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maxLevelSum(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
