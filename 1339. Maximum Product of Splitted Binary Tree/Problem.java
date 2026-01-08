@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private int getSum(TreeNode root){
         if(root == null){
             return 0;
