@@ -14,9 +14,6 @@ class Problem {
         
         int bigger = x > y ? x : y;
         
-		// returns bigger distance
-		// if x = 5 and y = 3, we need to take 3 diagonal steps and 2 horizontal/vertical steps
-		// = 5 total steps, so we can just return bigger
         return bigger;
     }
 }
