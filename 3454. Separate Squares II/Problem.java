@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private static class Interval implements Comparable<Interval> {
         int start, end;
         
