@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maximizeSquareHoleArea(int n, int m, int[] hBars, int[] vBars) {
         Arrays.sort(hBars);
         Arrays.sort(vBars);
