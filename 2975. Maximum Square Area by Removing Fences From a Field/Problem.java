@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maximizeSquareArea(int m, int n, int[] hFences, int[] vFences) {
         List<Integer> hList = new ArrayList<>();
         for (int h : hFences) hList.add(h);
