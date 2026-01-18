@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public long largestSquareArea(int[][] bl, int[][] tr) {
         int s = 0;
         int n = bl.length;
