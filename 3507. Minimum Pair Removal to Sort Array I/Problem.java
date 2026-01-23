@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private boolean isSorted(int[] nums, int n) {
         for(int i = 1; i < n; i++) {
             if(nums[i] < nums[i - 1]) return false;
