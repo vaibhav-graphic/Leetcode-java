@@ -1,4 +1,3 @@
-
 class Solution {
     public int minPairSum(int[] nums) {
         int min = Integer.MAX_VALUE, max = Integer.MIN_VALUE;
