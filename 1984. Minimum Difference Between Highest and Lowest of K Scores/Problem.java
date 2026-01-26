@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minimumDifference(int[] nums, int k) {
         int n = nums.length;
         Arrays.sort(nums);
