@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public List<List<Integer>> minimumAbsDifference(int[] arr) {
         List<List<Integer>> list1=new ArrayList<>();
         Arrays.sort(arr);
