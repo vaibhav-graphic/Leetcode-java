@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minCost(int n, int[][] edges) {
         List<List<int[]>> out = new ArrayList<>();
         List<List<int[]>> in = new ArrayList<>();
