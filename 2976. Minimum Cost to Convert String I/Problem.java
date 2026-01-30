@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class Problem {
     public long minimumCost(String source, String target, 
 char[] original, char[] changed, int[] cost) {
         long[][] dist = new long[26][26];
