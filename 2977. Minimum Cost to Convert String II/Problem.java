@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static final long INF = Long.MAX_VALUE;
     public long minimumCost(String source, String target,
                             String[] original, String[] changed, int[] cost) {
