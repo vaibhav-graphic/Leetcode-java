@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public char nextGreatestLetter(char[] letters, char target) {
 
        int s = 0;
