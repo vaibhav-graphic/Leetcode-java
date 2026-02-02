@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public int minimumCost(int[] nums) {
         int first = nums[0];
 
