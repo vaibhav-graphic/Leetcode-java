@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static class SmartWindow {
         int K;
         TreeMap<Integer, Integer> low = new TreeMap<>();
