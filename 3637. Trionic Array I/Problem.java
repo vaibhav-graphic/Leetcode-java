@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public boolean isTrionic(int[] nums) {
         int n = nums.length;
         if (n < 4) return false;
