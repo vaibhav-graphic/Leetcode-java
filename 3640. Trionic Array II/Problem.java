@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static class Triple {
         int p, q;
         long sum;
