@@ -1,4 +1,4 @@
-class Probl {
+class Problem {
     public int minRemoval(int[] nums, int k) {
         Arrays.sort(nums);
         int i = 0;
