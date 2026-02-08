@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minimumDeletions(String s) {
         int n = s.length();
         int[] f = new int[n + 1];
