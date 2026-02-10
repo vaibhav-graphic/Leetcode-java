@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public TreeNode balanceBST(TreeNode root) {
         if(root == null){
             return null;
