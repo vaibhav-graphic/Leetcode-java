@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private static int[] seen = new int[100001];
     private static int leet = 0;
     public int longestBalanced(int[] nums) {
