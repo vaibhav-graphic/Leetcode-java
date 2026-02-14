@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int longestBalanced(String s) {
         char[] c = s.toCharArray();
         int n = c.length;
