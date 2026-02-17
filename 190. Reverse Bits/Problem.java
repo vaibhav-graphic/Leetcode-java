@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int reverseBits(int n) { return rev(n, 32); }
 
     private int rev(int v, int len) {
