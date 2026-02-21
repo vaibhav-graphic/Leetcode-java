@@ -1,4 +1,4 @@
-class Prob {
+class Problem {
     public String makeLargestSpecial(String s) {
         int count = 0, i = 0;
         List<String> res = new ArrayList<>();
