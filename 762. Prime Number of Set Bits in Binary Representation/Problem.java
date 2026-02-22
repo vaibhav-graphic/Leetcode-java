@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int countPrimeSetBits(int left, int right) {
         int count=0;
         
