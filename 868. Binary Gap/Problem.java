@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int binaryGap(int n) {
         n >>= Integer.numberOfTrailingZeros(n);
         if (n == 1) return 0;
