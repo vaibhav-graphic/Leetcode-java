@@ -1,4 +1,4 @@
-class Prob {
+class Problem {
     public boolean hasAllCodes(String s, int k) {
         int req = 1 << k;
         boolean[] seen = new boolean[req];
