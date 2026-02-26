@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] sortByBits(int[] arr) {
         Integer[] temp = Arrays.stream(arr).boxed().toArray(Integer[]::new);
         
