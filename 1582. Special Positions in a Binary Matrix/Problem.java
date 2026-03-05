@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int numSpecial(int[][] mat) {
 
         int specials = 0;
