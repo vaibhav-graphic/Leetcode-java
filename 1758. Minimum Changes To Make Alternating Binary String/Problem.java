@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minOperations(String s) {
         
         int n = s.length();
