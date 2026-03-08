@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int minFlips(String s) {
         int n = s.length();
         int res = n;
