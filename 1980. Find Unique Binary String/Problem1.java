@@ -1,4 +1,4 @@
-class Probelm {
+class Probelm1 {
     public String findDifferentBinaryString(String[] nums) {
         StringBuilder result = new StringBuilder();
         for (int i = 0; i < nums.length; i++) {
