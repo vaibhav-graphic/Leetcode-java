@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
 
     public int numberOfStableArrays(int zero, int one, int limit) {
         int MOD = 1000000007;
