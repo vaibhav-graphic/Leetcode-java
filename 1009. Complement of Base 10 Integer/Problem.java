@@ -1,4 +1,4 @@
-class SolutOion {
+class Problem {
     public int bitwiseComplement(int n) {
         if(n==0) return 1; 
         int count=0, t=n;
