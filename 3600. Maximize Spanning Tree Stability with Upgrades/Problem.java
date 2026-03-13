@@ -43,7 +43,7 @@ class DSU {
     }
 }
 
-class Solution {
+class Problem {
 
     public boolean canAchieve(int n, int[][] edges, int k, int x) {
         DSU dsu = new DSU(n);
