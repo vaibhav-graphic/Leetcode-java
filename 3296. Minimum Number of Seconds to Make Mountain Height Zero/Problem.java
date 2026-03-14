@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public long minNumberOfSeconds(int mountainHeight, int[] workerTimes) {
         long left = 1; 
         long right = Arrays.stream(workerTimes).min().getAsInt() * (long) mountainHeight * (mountainHeight + 1) / 2;
