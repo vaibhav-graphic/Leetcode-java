@@ -2,7 +2,7 @@
 //T.C : O(m*n)
 //S.C : O(m*n)
 
-class Solution {
+class Problem {
     public int largestSubmatrix(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
