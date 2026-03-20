@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int numberOfSubmatrices(char[][] grid) {
         int m = grid.length, n = grid[0].length;
         int ans = 0;
