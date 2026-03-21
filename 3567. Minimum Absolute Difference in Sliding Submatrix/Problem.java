@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[][] minAbsDiff(int[][] grid, int k) {
         int m = grid.length, n = grid[0].length;
         int[][] ans = new int[m - k + 1][n - k + 1];
