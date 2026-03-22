@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[][] reverseSubmatrix(int[][] grid, int x, int y, int k) {
         for (int i = 0; i < k; i++) {
             for (int j = 0; j < k >> 1; j++) {
