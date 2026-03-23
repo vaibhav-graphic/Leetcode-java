@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public boolean findRotation(int[][] mat, int[][] target) {
     for(int i=0;i<4;i++){
         if(check(mat,target)){
