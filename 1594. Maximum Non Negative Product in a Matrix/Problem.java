@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maxProductPath(int[][] grid) {
         int m = grid.length, n = grid[0].length;
         long MOD = 1000000007;
