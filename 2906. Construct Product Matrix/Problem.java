@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
 
     public int[][] constructProductMatrix(int[][] grid) {
         final int MOD = 12345;
