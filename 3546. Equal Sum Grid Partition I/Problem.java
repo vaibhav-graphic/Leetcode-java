@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public boolean canPartitionGrid(int[][] grid) {
         int m = grid.length, n = grid[0].length;
         long total = 0;
