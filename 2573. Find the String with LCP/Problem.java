@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public String findTheString(int[][] lcp) {
         int n = lcp.length;
         char[] word = new char[n];
