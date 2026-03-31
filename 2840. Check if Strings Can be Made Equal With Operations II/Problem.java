@@ -1,4 +1,4 @@
-class Proble {
+class Problem {
     public boolean checkStrings(String s1, String s2) {
         long eX = 0, oX = 0, eS = 0, oS = 0;
 
