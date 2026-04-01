@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public String generateString(String S, String t) {
         char[] s = S.toCharArray();
         int n = s.length;
