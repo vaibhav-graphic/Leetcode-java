@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<Integer> survivedRobotsHealths(int[] positions, int[] healths, String directions) {
         int n = positions.length;
         List<int[]> robots = new ArrayList<>();
