@@ -1,4 +1,4 @@
-class Solution {
+class PRoblem {
     public int maximumAmount(int[][] coins) {
         int n = coins.length;
         int m = coins[0].length;
