@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public String decodeCiphertext(String encodedText, int rows) {
         if (rows == 1)
             return encodedText;
