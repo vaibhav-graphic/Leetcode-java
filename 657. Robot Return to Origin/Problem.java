@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public boolean judgeCircle(String moves) {
         int x = 0, y = 0;
 
