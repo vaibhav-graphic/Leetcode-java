@@ -1,4 +1,4 @@
-class Solution {
+class Problem1 {
     public int robotSim(int[] commands, int[][] obstacles) {
         Set<String> set = new HashSet<>();
 
