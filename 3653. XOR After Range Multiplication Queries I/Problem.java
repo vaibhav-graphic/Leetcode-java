@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     final int mod = 1000000007;
 
     public int xorAfterQueries(int[] nums, int[][] queries) {
