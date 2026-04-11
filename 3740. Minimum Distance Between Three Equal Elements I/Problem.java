@@ -1,4 +1,4 @@
-class Prob {
+class Problem {
     public int minimumDistance(int[] nums) {
         int len = nums.length;
         int[] last2 = new int[len];
