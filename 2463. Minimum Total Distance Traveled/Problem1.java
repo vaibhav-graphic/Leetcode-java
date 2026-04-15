@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public long minimumTotalDistance(List<Integer> robot, int[][] factory) {
         Collections.sort(robot);
         Arrays.sort(factory, (a, b) -> Integer.compare(a[0], b[0]));
