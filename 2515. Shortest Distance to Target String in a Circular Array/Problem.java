@@ -1,4 +1,4 @@
-class PRoblem {
+class Problem {
     public int closestTarget(String[] words, String target, int startIndex) {
         int n = words.length;
         int ans = Integer.MAX_VALUE;
