@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<Integer> solveQueries(int[] nums, int[] queries) {
         int n = nums.length;
         Map<Integer, List<Integer>> map = new HashMap<>();
