@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int minMirrorPairDistance(int[] nums) {
         int res = 100000, i = 0;
         HashMap<Integer, Integer> seen = new HashMap<>();
