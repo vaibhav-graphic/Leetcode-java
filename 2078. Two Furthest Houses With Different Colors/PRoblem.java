@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int maxDistance(int[] A) {
         int n = A.length;
         int left = 0, right = 0;
