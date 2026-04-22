@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private int[] parent;
 
     private int find(int x) {
