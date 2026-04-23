@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     boolean hasMatch(String query, String[] dictionary) {
         boolean found = false;
         for (String dict : dictionary) {
