@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public long[] distance(int[] nums) {
         int n = nums.length;
         long[] ans = new long[n];
