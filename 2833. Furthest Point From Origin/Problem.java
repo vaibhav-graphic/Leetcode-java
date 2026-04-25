@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int furthestDistanceFromOrigin(String moves) {
         int left = 0, right = 0, blanks = 0;
 
