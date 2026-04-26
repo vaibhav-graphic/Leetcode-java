@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maxDistance(int side, int[][] points, int k) {
         long[] res = new long[points.length];
         long lSide = (long) side;
