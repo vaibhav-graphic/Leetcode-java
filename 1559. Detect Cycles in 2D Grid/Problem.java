@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static int[][] dirs = { { 0, -1 }, { 0, 1 }, { -1, 0 }, { 1, 0 } };
 
     public boolean containsCycle(char[][] grid) {
