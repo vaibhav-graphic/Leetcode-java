@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public boolean hasValidPath(int[][] grid) {
         int m = grid.length, n = grid[0].length;
 
