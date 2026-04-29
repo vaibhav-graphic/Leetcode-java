@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public int minOperations(int[][] grid, int x) {
         List<Integer> values = new ArrayList<>();
         
