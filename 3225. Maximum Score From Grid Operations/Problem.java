@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public long maximumScore(int[][] grid) {
 
         int n = grid.length;
