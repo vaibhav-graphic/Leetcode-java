@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int rotatedDigits(int n) {
         int[] dp = new int[n + 1];
         int count = 0;
