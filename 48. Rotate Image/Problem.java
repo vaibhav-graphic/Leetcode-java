@@ -1,4 +1,4 @@
-class Approch_1{
+class Problem{
     public static void rotate(int[][] matrix) {
         int n=matrix.length;
 
