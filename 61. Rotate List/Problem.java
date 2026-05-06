@@ -1,4 +1,4 @@
-public class Approch_2 {
+public class Problem {
     public ListNode rotateRight(ListNode head, int k) {
 
         //edge case
