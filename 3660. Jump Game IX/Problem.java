@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] maxValue(int[] nums) {
         int n = nums.length;
 
