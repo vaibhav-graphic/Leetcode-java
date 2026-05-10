@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[][] rotateGrid(int[][] grid, int k) {
         int T = 0, L = 0;
         int B = grid.length - 1, R = grid[0].length - 1;
