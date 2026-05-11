@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maximumJumps(int[] nums, int target) {
 
         int n = nums.length;
