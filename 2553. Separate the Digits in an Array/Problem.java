@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] separateDigits(int[] nums) {
         
         List<Integer> list = new ArrayList<>();
