@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
 
     public int minMoves(int[] nums, int limit) {
 
