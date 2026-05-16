@@ -1,4 +1,4 @@
-class PRoblem {
+class Problem {
     public int findMin(int[] nums) {
         int n = nums.length;
         int min = Integer.MAX_VALUE;
