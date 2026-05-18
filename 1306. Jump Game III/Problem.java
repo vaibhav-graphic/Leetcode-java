@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public boolean canReach(int[] arr, int start) {
         int n = arr.length;
 
