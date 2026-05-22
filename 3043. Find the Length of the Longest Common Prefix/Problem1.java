@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public int longestCommonPrefix(int[] arr1, int[] arr2) {
         HashSet<Integer> set = new HashSet<>();
 
