@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public boolean check(int[] nums) {
         int n = nums.length;
         int count = 0;
