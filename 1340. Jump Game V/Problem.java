@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     int[] dp;
 
     public int maxJumps(int[] arr, int d) {
