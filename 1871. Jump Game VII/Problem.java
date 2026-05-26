@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public boolean canReach(String s, int minJ, int maxJ) {
         int n = s.length();
 
