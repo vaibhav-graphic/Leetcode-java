@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int numberOfSpecialChars(String word) {
         boolean[][] A = new boolean[2][27];
 
