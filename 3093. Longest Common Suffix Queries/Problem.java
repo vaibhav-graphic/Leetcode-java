@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     class TrieNode {
         TrieNode[] children = new TrieNode[26];
         int bestLen = Integer.MAX_VALUE;
