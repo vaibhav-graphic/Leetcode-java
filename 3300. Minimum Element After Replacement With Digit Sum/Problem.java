@@ -1,4 +1,4 @@
-class Prob {
+class Problem {
     public int minElement(int[] nums) {
         int n = nums.length;
 
