@@ -1,4 +1,4 @@
-class Prob {
+class Problem {
 
     private final int MAXX = 50000;
     private int[] seg;
