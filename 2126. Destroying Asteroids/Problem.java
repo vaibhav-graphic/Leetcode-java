@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public boolean asteroidsDestroyed(int mass, int[] asteroids) {
         int maxasteroid = 0;
         for(int a : asteroids) {
