@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int minimumCost(int[] cost) {
         Arrays.sort(cost);
         int total = 0;
