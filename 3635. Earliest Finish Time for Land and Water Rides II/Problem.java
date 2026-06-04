@@ -1,4 +1,4 @@
-class Probem {
+class Problem {
     final static int MAX = 300005;
 
     public int earliestFinishTime(int[] la, int[] lb, int[] wa, int[] wb) {
