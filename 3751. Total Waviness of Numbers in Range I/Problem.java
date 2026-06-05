@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     private static int MAX = 100001;
     private static int[] dp = new int[MAX], pref = new int[MAX];
 
