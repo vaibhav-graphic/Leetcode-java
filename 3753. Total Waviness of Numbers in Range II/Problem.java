@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static final int[] waves = new int[570];
 
     static {
