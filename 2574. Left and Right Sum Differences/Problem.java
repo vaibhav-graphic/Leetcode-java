@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] leftRightDifference(int[] nums) {
         int rightSum = 0;
 
