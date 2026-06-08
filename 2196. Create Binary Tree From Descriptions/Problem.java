@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public TreeNode createBinaryTree(int[][] descriptions) {
         Map<Integer, TreeNode> hm = new HashMap<>();
         Set<Integer> set = new HashSet<>();
