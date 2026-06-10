@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public long maxTotalValue(int[] A, int k) {
         int min = A[0], max = A[0];
 
