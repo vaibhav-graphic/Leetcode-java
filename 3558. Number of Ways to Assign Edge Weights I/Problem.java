@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private static final int mod = 1_000_000_007;
 
     public int assignEdgeWeights(int[][] edges) {
