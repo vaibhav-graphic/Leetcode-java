@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static int[] binaryExponent;
     static final long mod = 1000000007l;
 
