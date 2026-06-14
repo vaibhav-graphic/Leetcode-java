@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public String mapWordWeights(String[] words, int[] wt) {
         StringBuilder sb = new StringBuilder();
 
