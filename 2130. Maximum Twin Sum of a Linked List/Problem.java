@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int pairSum(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
