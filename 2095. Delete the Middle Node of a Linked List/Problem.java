@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Problem {
     public ListNode deleteMiddle(ListNode head) {
         ListNode prev = null;
         ListNode slow = head;
