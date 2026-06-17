@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public String processStr(String s) {
         StringBuilder sb = new StringBuilder();
         int n = s.length();
