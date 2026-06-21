@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maxBuilding(int num, int[][] restrictions) {
         List<int[]> r = new ArrayList<>(Arrays.asList(restrictions));
         r.add(new int[]{1, 0});
