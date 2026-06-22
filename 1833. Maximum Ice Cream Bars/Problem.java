@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maxIceCream(int[] costs, int coins) {
 
         final int MAX_COST = 100000;
