@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private static final long MOD = 1_000_000_007L;
 
     private long[][] multiply(long[][] A, long[][] B) {
