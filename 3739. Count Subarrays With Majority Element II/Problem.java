@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public long countMajoritySubarrays(int[] nums, int target) {
         int n = nums.length;
         long cnt = 0;
