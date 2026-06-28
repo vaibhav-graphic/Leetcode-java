@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     private static final int MAX_BASE = 31622;
 
     public int maximumLength(int[] nums) {
