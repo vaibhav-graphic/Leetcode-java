@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public int numberOfSubstrings(String s) {
         int n = s.length();
         int count = 0;

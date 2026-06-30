@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     class Node {
         Node[] c = new Node[26];
         Node f;
