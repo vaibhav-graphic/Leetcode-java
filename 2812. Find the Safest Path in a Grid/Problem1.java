@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     int n;
     int[][] directions = {{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
 
