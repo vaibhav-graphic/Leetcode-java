@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public boolean findSafeWalk(List<List<Integer>> grid, int health) {
         int m = grid.size();
         int n = grid.get(0).size();
