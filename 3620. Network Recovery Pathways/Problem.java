@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int findMaxPathScore(int[][] edges, boolean[] online, long k) {
         int n = online.length;
 
