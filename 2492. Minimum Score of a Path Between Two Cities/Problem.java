@@ -8,7 +8,7 @@ class Pair{
     }
 }
 
-class Solution {
+class Problem {
     public int minScore(int n, int[][] roads) {
         List<List<Pair>> adj = new ArrayList<>();
 
