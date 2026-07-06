@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] pathsWithMaxScore(List<String> board) {
         final int MOD = 1_000_000_007;
         int n = board.size();
