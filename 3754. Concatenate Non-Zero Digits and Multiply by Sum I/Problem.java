@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public long sumAndMultiply(int n) {
         long x = 0, s = 0;
         for (char c : String.valueOf(n).toCharArray())
