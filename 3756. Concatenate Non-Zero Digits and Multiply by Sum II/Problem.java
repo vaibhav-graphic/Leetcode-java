@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private static final int MOD = 1000000007;
     private static final int MAX = 100001;
     private static final int[] pow = new int[MAX];
