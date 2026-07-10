@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public boolean[] pathExistenceQueries(int n, int[] nums, int maxDiff, int[][] queries) {
         int[] comp = new int[n];
         comp[0] = 0;
