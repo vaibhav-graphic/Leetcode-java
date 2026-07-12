@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     int[] parent;
     int[] rank;
 
