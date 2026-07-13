@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public int[] arrayRankTransform(int[] arr) {
         int n = arr.length;
         int[] rank = arr.clone();
