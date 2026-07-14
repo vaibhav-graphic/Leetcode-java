@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public List<Integer> sequentialDigits(int low, int high) {
         String s = "123456789";
         List<Integer> res = new ArrayList<>();
