@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] gcdValues(int[] A, long[] queries) {
         int max = Arrays.stream(A).max().getAsInt();
 
