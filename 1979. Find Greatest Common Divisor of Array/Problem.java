@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public int findGCD(int[] nums) {
         int mn = 1001, mx = 0;
 
