@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public String smallestSubsequence(String s) {
         int[] freq = new int[27];
         boolean[] seen = new boolean[27];
