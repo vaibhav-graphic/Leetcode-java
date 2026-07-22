@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maxActiveSectionsAfterTrade(String s) {
         int ones = 0;
         for (char c : s.toCharArray())
