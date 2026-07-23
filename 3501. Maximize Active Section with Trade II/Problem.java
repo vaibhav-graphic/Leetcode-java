@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<Integer> maxActiveSectionsAfterTrade(String s, int[][] queries) {
         int n = s.length();
         int totalOnes = 0;
