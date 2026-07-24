@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public int uniqueXorTriplets(int[] nums) {
         int n = nums.length;
         
