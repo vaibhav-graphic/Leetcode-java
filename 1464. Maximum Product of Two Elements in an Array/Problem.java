@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int maxProduct(int[] nums) {
         int l = 0;
         int sl = 0;
