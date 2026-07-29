@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public String smallestPalindrome(String s) {
         int n = s.length(), j = 0;
         int[] freq = new int[26];
