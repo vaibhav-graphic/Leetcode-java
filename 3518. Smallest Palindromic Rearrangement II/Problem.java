@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public String smallestPalindrome(String s, int k) {
         int[] freq = new int[26];
         for (char c : s.toCharArray()) {
