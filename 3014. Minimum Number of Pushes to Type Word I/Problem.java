@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minimumPushes(String word) {
         Map<Integer,Integer> hs = new HashMap<>();
         int check = 2;
