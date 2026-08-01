@@ -1,4 +1,4 @@
-class Prob {
+class Problem {
     public int minimumPushes(String word) {
         int[] letterFrequency = new int[26];
         for (char c : word.toCharArray()) {
