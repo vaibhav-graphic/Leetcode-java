@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public boolean stoneGame(int[] piles) {
         int n = piles.length;
         int[][] dp = new int[n][n];
