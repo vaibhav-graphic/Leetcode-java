@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static final String[] s = { "Bob", "Tie", "Alice" };
 
     public String stoneGameIII(int[] A) {
