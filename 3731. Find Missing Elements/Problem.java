@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<Integer> findMissingElements(int[] nums) {
         List<Integer> res = new ArrayList<>();
 
