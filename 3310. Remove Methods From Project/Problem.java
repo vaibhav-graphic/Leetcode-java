@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         List<Integer>[] edges = new ArrayList[n];
         for (int i = 0; i < n; i++) {
