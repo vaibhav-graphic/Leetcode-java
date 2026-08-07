@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int smallestNumber(int n, int t) {
 
         while(n < 101){
