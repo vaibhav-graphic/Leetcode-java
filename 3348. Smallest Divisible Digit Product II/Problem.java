@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     int primes[] = new int[] { 2, 3, 5, 7 };
     int maxPrime = primes[primes.length - 1];
 
