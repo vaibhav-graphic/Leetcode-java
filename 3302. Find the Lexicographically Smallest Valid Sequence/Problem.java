@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] validSequence(String word1, String word2) {
 
         char[] s = word1.toCharArray();
