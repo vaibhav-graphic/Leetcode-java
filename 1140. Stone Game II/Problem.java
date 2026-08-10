@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int stoneGameII(int[] piles) {
         int n = piles.length;
         
