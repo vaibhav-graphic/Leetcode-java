@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     static final int MAX = 100000;
     static final boolean[] dp = new boolean[MAX + 1];
 
