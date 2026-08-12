@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int missingInteger(int[] A) {
         int sum = A[0];
         boolean[] seen = new boolean[52];
