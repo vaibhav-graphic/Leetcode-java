@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static class Node {char leftChar; char rightChar; int length; int prefix; int suffix;
 int best;
         Node(char leftChar, char rightChar, int length, int prefix, int suffix, int best) {
