@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maximumLengthSubstring(String s) {
         int[] freq = new int[26];
         
