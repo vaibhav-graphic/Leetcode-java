@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public boolean stoneGameIX(int[] stones) {
         int[] f = {0, 0, 0};
 
