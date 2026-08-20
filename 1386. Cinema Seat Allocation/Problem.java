@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
 
     public int maxNumberOfFamilies(int n, int[][] rs) {
         HashMap<Integer, Integer> mp = new HashMap<>(); 
