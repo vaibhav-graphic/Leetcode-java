@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] resultArray(int[] nums) {
         ArrayList<Integer> l1 = new ArrayList<>();
         ArrayList<Integer> l2 = new ArrayList<>();
