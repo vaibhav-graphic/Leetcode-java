@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public long findKthSmallest(int[] coins, int k) {
         Arrays.sort(coins);
 
