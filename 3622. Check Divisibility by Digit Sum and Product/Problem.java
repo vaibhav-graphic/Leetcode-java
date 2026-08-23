@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public boolean checkDivisibility(int n) {
         int original = n;
         int digitSum = 0;
