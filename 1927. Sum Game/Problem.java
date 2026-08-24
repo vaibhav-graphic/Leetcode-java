@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public boolean sumGame(String A) {
         int[] sum = {0, 0}, q = {0, 0};
         int n = A.length();
