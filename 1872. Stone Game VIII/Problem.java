@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int stoneGameVIII(int[] A) {
         int n = A.length;
         for (int i = 1; i < n; i++)
