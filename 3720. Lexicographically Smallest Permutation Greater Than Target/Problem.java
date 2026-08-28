@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public String lexGreaterPermutation(String s, String target) {
         int[] cnt = new int[26];
 
