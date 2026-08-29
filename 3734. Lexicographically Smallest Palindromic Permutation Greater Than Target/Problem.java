@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public String lexPalindromicPermutation(String s, String target) {
         int[] freq = new int[26];
         for (int i = 0; i < s.length(); i++)
