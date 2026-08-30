@@ -1,4 +1,4 @@
-class Solution {
+class Problem1 {
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {
         int n = nums.length;
         if (n == 0) return new int[0];
