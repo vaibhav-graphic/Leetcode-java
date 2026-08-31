@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minimumDeletions(int[] nums) {
         int n = nums.length;
         int left = 0;
