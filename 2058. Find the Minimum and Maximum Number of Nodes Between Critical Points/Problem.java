@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Problem {
     public int[] nodesBetweenCriticalPoints(ListNode h) {
     int first = Integer.MAX_VALUE, last = 0, prev_val = h.val, min_d = Integer.MAX_VALUE;
     for (int i = 0; h.next != null; ++i) {
