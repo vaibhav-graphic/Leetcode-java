@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minMoves(String[] classroom, int energy) {
         int m = classroom.length;
         int n = classroom[0].length();
