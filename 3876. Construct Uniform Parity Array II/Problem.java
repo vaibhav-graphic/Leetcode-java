@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public boolean uniformArray(int[] A) {
         int min = A[0], odd = 0;
 
