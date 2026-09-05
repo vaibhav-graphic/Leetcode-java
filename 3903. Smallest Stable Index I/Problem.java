@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int firstStableIndex(int[] nums, int k) {
         int n = nums.length;
         int[] suffix = new int[n];
