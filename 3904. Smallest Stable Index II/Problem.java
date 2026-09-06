@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int firstStableIndex(int[] nums, int k) {
         int maxSoFar = -1;
         int cand = 0, max = 0;
