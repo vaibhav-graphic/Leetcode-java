@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     int MOD = 1000000007;
 
     public int distinctSubseqII(String s) {
