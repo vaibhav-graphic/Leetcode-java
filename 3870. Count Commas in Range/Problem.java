@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int countCommas(int n) {
         int count = 0;
 
