@@ -1,4 +1,4 @@
-class Proble {
+class Problem {
     private static final long[] pow1000 = { 1000L, 1000000L, 1000000000L, 1000000000000L, 1000000000000000L, 1000000000000000000L };
     
     public long countCommas(long n) {
