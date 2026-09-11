@@ -8,7 +8,7 @@ class Pair{
     }
 }
 
-class Solution {
+class Problem {
     private Pair dfs(TreeNode root, int[] count){
         if(root == null){
             return new Pair(0, 0);
