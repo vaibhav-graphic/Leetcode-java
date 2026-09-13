@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int[] maximumWeight(List<List<Integer>> intervals) {
         int n = intervals.size();
         int[][] iv = new int[n][3];
