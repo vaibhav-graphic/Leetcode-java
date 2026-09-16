@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maxPalindromes(String s, int k) {
         int n = s.length();
         if (k == 1)
