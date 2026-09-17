@@ -1,4 +1,4 @@
-class PRoblem {
+class Problem {
     private static final long MOD = 1_000_000_007L;
 
     private long modPow(long base, long exp) {
