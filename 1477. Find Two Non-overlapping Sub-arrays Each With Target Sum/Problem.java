@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minSumOfLengths(int[] A, int k) {
         int n = A.length;
         int res = n + 1, sum = 0, i = 0;
