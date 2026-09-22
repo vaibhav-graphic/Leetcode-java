@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public long[] resultArray(int[] A, int k) {
         long[] res = new long[k];
         int[] freq = new int[k];
