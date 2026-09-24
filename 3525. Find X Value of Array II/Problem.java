@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     static class Node {
         int prod;
         int[] freq;
