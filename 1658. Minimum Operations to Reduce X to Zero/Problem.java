@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int minOperations(int[] A, int x) {
         int k = -x, n = A.length;
         for (int a : A) k += a;
