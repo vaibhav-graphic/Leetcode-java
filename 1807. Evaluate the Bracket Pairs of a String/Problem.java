@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public String evaluate(String s, List<List<String>> K) {
         Map<String, String> d = new HashMap<>();
         for (var k : K)
