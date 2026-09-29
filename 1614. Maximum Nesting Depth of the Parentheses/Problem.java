@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int maxDepth(String s) {
         int n = s.length();
 
