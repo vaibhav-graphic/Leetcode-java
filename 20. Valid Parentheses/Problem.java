@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public boolean isValid(String s) {
         int n = s.length();
 
