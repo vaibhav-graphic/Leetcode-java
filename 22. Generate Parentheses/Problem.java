@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
         solve(n,"(",1,0,res);
