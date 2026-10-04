@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public int longestValidParentheses(String s) {
         Stack<Integer> st = new Stack<>();
         int res = 0;
