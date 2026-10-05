@@ -1,4 +1,4 @@
-class Problem {
+class Problem1 {
     public boolean checkValidString(String s) {
         Stack<Integer> left = new Stack<>();
         Stack<Integer> star = new Stack<>();
