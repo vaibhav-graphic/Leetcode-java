@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minInsertions(String s) {
         int open = 0, ans = 0;
 
