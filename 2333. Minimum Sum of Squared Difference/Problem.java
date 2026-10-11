@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
         int[] d = new int[100001];
         long k = (long) k1 + k2, sum = 0;
