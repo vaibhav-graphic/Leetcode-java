@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int sumOfSquares(int[] nums) {
         int sum=0;
 
