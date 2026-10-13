@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public int maxSum(List<Integer> nums, int k) {
         int[] b = new int[30];
         long ans = 0, mod = 1000000007;
