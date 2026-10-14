@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public long maxAlternatingSum(int[] nums) {
         long[] a = new long[nums.length];
         for (int i = 0; i < nums.length; i++)
