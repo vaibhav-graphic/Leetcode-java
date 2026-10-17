@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     long[] s, q, lz;
 
     void app(int o, int len, long k) {
