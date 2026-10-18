@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minSwaps(int[] nums) {
         int n = nums.length;
         int[][] a = new int[n][3];
