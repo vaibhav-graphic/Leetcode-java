@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private boolean check(int[] nums, int k) {
         int n = nums.length, prev = 0;
 
