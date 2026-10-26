@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int closedIsland(int[][] grid) {
         int m = grid.length, n = grid[0].length;
         for (int i = 0; i < m; i++) {
