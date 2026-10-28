@@ -1,4 +1,4 @@
-class Pro {
+class Problem {
     public String[] createGrid(int m, int n) {
         String[] res = new String[m];
         
