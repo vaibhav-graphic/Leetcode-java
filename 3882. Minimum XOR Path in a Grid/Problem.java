@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int minCost(int[][] grid) {
         int m = grid.length, n = grid[0].length;
         boolean[][][] dp = new boolean[m][n][1024];
