@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<Boolean> palindromePath(int n, int[][] edges, String s, String[] queries) {
         List<Integer>[] g = new ArrayList[n];
         for (int i = 0; i < n; i++) g[i] = new ArrayList<>();
