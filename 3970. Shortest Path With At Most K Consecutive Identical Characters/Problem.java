@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public int shortestPath(int n, int[][] edges, String labels, int k) {
         List<int[]>[] g = new ArrayList[n];
         for (int i = 0; i < n; i++) g[i] = new ArrayList<>();
