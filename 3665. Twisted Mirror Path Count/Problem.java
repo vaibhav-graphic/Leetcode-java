@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     static final int[][][] mat = {{{1, 1}, {1, 1}}, {{0, 1}, {1, 0}}};
     static final int MOD = 1000000007;
 
