@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public long minOperations(int[] nums, int x, int k) {
         int n = nums.length;
         int[] vals = nums.clone();
