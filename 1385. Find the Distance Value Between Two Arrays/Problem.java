@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
            int c = 0;
         for(int n : arr1){
