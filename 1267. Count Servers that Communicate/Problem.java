@@ -1,4 +1,4 @@
-class Prob {
+class Problem {
     public int countServers(int[][] grid) {
         int[] Rows = new int[grid.length];
         int[] Col = new int[grid[0].length];

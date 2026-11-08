@@ -1,4 +1,4 @@
-class Probl {
+class Problem {
     public int[] assignTasks(int[] servers, int[] tasks) {
         PriorityQueue<int[]> free = new PriorityQueue<>((a, b) -> a[0] != b[0] ? a[0] - b[0] : a[1] - b[1]);
         for (int i = 0; i < servers.length; i++) {
