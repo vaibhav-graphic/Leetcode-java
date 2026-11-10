@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public List<Integer> busiestServers(int k, int[] arrival, int[] load) {
         TreeSet<Integer> free = new TreeSet<>();
         for (int i = 0; i < k; i++) free.add(i);
