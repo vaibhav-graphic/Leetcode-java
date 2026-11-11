@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int climbStairs(int n, int[] costs) {
         long[] dp = new long[n + 1];
         Arrays.fill(dp, Long.MAX_VALUE);
