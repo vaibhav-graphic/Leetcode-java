@@ -1,4 +1,4 @@
-class Poblem {
+class Problem {
     public long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
         long c1 = cost1, c2 = cost2, cb = costBoth;
         long n1 = need1, n2 = need2;
