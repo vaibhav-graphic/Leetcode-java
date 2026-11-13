@@ -1,4 +1,4 @@
-class Pr {
+class Problem1 {
     public int longestMonotonicSubarray(int[] nums) {
         int n = nums.length;
         int maxLen = 1, inc = 1, dec = 1;
