@@ -1,4 +1,4 @@
-class  {
+class Problem {
     public long countNonDecreasingSubarrays(int[] nums, int k) {
         long ans = 0;
         long cost = 0;
