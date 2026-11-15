@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minimumSumSubarray(List<Integer> nums, int l, int r) {
         int n = nums.size();
         int ans = Integer.MAX_VALUE;
