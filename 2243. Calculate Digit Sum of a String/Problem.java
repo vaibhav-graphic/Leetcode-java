@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public String digitSum(String s, int k) {
         List<Integer> cur = new ArrayList<>();
         for (char c : s.toCharArray()) cur.add(c - '0');
