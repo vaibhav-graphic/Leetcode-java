@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int minimumChanges(String s, int k) {
         int n = s.length();
         final int INF = 1000000000;
