@@ -1,4 +1,4 @@
-class Problem2 {
+class Problem3 {
     public int minChanges(String s) {
         int n = s.length();
         int count = 0;
