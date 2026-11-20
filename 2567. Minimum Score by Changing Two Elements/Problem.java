@@ -1,4 +1,4 @@
-class Pr {
+class Problem {
     public int minimizeSum(int[] nums) {
         Arrays.sort(nums);
         int n = nums.length;
