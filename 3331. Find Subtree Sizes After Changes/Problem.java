@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     private List<Integer>[] adj;
     private int[] newParent;
     private int[] charAncestor;
