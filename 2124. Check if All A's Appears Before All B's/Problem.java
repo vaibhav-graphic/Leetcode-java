@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public boolean checkString(String s) {
         boolean seenB = false;
         for (char c : s.toCharArray()) {
