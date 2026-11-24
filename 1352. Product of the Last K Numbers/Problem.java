@@ -1,4 +1,4 @@
-class ProductOfNumbers {
+class Problem {
     ArrayList<Integer> list = new ArrayList<>();
     int prod = 1;
 
