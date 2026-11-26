@@ -1,4 +1,4 @@
-class Solution {
+class Problem {
     public int smallestUniqueSubarray(int[] nums) {
         int n = nums.length;
         final long MOD1 = 1000000007L, MOD2 = 1000000009L;
