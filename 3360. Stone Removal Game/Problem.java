@@ -1,4 +1,4 @@
-class P {
+class Problem {
     public boolean canAliceWin(int n) {
         int remove = 10;
         boolean aliceTurn = true;
